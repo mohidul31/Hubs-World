@@ -31,5 +31,10 @@ namespace HubsWorld.Controllers
         {
             return View();
         }
+
+        public ActionResult Counter()
+        {
+            return View();
+        }
     }
 }
