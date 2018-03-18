@@ -40,3 +40,14 @@ c:\users\lenovo\source\repos\HubsWorld\HubsWorld\obj\Debug\HubsWorld.csprojResol
 c:\users\lenovo\source\repos\HubsWorld\HubsWorld\obj\Debug\HubsWorld.csproj.CoreCompileInputs.cache
 c:\users\lenovo\source\repos\HubsWorld\HubsWorld\obj\Debug\HubsWorld.dll
 c:\users\lenovo\source\repos\HubsWorld\HubsWorld\obj\Debug\HubsWorld.pdb
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Owin.dll
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\source\repos\HubsWorld\HubsWorld\bin\Microsoft.Owin.Security.xml
