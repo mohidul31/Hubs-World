@@ -1,0 +1,130 @@
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\ApplicationInsights.config
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\csc.exe
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\vbc.exe
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\MyNewChatApplication.dll.config
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\MyNewChatApplication.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\MyNewChatApplication.pdb
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Antlr3.Runtime.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.Web.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Security.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Newtonsoft.Json.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Owin.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Helpers.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Mvc.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Optimization.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Razor.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\WebGrease.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.Web.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Security.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Helpers.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Mvc.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Optimization.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Razor.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Antlr3.Runtime.pdb
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\bin\Newtonsoft.Json.xml
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.csprojResolveAssemblyReference.cache
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.dll
+c:\users\iit\documents\visual studio 2015\Projects\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.pdb
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\ApplicationInsights.config
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\csc.exe
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\vbc.exe
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\MyNewChatApplication.dll.config
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\MyNewChatApplication.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\MyNewChatApplication.pdb
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Owin.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Razor.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\WebGrease.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.Razor.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.dll
+C:\Users\Lenovo\source\repos\HubsWorld\MyNewChatApplication\MyNewChatApplication\obj\Debug\MyNewChatApplication.pdb

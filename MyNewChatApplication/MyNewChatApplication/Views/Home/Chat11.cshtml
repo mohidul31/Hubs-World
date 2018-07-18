@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewBag.Title = "Chat";
+}
+
+<h2>Chat</h2>
+<div class="container">
+    My Name: <input type="text" id="displayname" readonly /><br />
+    Friend Name: <input type="text" id="frndConnId" /><br />
+    Messge<input type="text" id="message" /><br />
+    <input type="button" id="sendmessage" value="Send" /><br />
+
+    <hr />
+    <h1>Send Message</h1>
+    <ul id="discussionSend"></ul>
+    <hr />
+    <h1>Receive Message</h1>
+    <ul id="discussionReceive"></ul>
+</div>
+@section scripts {
+    <script src="~/Scripts/jquery.signalR-2.1.2.min.js"></script>
+    <script src="~/signalr/hubs"></script>
+    <script>
+        $(function () {
+            var chat = $.connection.chatHub;
+
+            chat.client.addNewMessageToPage = function (from, message, to) {
+
+                if (from == $('#displayname').val()) {
+                    $('#discussionSend').append('<li>From: <b>' + htmlEncode(from)
+                        + '</b> -> To: <b>' + htmlEncode(to) + '</b>;; Message' + htmlEncode(message) + '</li>');
+                }
+
+                if (to == $('#displayname').val()) {
+                    $('#discussionReceive').append('<li>From: <b>' + htmlEncode(from)
+                        + '</b> -> To: <b>' + htmlEncode(to) + '</b>;; Message' + htmlEncode(message) + '</li>');
+                }
+                
+            };
+
+            $('#displayname').val(prompt('Enter your name:', ''));
+
+            $('#message').focus();
+
+            $.connection.hub.start().done(function () {
+                $('#sendmessage').click(function () {
+
+                    chat.server.sendFromTo($('#displayname').val(), $('#message').val(), $('#frndConnId').val());
+
+                    $('#message').val('').focus();
+                });
+            });
+        });
+
+        function htmlEncode(value) {
+            var encodedValue = $('<div />').text(value).html();
+            return encodedValue;
+        }
+    </script>
+}
