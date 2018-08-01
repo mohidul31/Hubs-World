@@ -3,9 +3,9 @@
     ViewBag.Title = "Chat";
 }
 
-<h2>Chat</h2>
+<p id="showStatus" style="color:green"> </p>
 <div class="container">
-    My Name: <input type="text" id="displayname" readonly /><br />
+    My Name: <input type="hidden" id="displayname" readonly /><span id="myName">NA</span><br />
     Friend Name: <input type="text" id="frndConnId" /><br />
     Messge<input type="text" id="message" /><br />
     <input type="button" id="sendmessage" value="Send" /><br />
@@ -23,6 +23,8 @@
     <script>
         $(function () {
             var chat = $.connection.chatHub;
+            // Declare a proxy to reference the hub.
+            var counter = $.connection.hitCounter;
 
             chat.client.addNewMessageToPage = function (from, message, to) {
 
@@ -39,6 +41,7 @@
             };
 
             $('#displayname').val(prompt('Enter your name:', ''));
+            $('#myName').html($('#displayname').val());
 
             $('#message').focus();
 
@@ -48,8 +51,15 @@
                     chat.server.sendFromTo($('#displayname').val(), $('#message').val(), $('#frndConnId').val());
 
                     $('#message').val('').focus();
+                    // Call the Send method on the hub.
+                    counter.server.send();
                 });
             });
+
+            counter.client.recalculateOnlineUsers = function (message) {
+                
+                $('#showStatus').text(message);
+            };
         });
 
         function htmlEncode(value) {
